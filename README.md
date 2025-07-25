@@ -42,7 +42,7 @@ It allows users to:
 
 ## 📫 Contact
 
-Created by Blessy Goan  
+Created by Blessy Gona  
 Email: gonablessy07@gmail.com  
 GitHub: https://github.com/BlessyGona
 
